@@ -1,4 +1,4 @@
-package datastructure.tree;
+package algrothim.interview;
 import java.util.*;
 
 public class MinimumSpanningTree {
