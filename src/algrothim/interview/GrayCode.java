@@ -27,7 +27,6 @@ public class GrayCode {
 		byte term1 = (byte)1, term2 = (byte)5;
 		GrayCode gc = new GrayCode();
 		int res = gc.grayCheck2(term1, term2);
-		System.out.println(res);
-		
+		System.out.println(res);		
 	}
 }
